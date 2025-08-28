@@ -1,8 +1,8 @@
 <h1>Expense Tracker System Project</h1>
 
-      <pre>This is a simple Java Swing application to track daily expenses. 
-       Users can add, update, and delete expenses, generate reports, and 
-                 visualize income vs expenses.</pre>
+      This is a simple Java Swing application to track daily expenses. 
+      Users can add, update, and delete expenses, generate reports, and 
+                 visualize income vs expenses.
 <pre>
 <h3> Features</h3>
 - Add, update, and delete expenses
